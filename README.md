@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo5629
-Fork on GitHub928
 <h1 align="center">Hi 👋, I'm SHIV SHANKER SINGH</h1>
 <h3 align="center">A passionate programmer and Electronics & Communication Engineer from India</h3>
 
